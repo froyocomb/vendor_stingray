@@ -65,7 +65,6 @@ PRODUCT_COPY_FILES += \
     vendor/moto/stingray/proprietary/gps.stingray.so:system/lib/hw/gps.stingray.so \
     vendor/moto/stingray/proprietary/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/moto/stingray/proprietary/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
-    vendor/moto/stingray/proprietary/libcamera.so:system/lib/libcamera.so \
     vendor/moto/stingray/proprietary/libcgdrv.so:system/lib/libcgdrv.so \
     vendor/moto/stingray/proprietary/libims_client_jni.so:system/lib/libims_client_jni.so \
     vendor/moto/stingray/proprietary/libnvddk_2d.so:system/lib/libnvddk_2d.so \
